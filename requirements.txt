@@ -1,0 +1,7 @@
+streamlit
+pandas
+pillow
+plotly
+psycopg2-binary
+SQLAlchemy
+supabase
